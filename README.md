@@ -41,8 +41,7 @@ The dataset tracks 4 distinct physical attributes across 150 instances of Iris f
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com
-cd your-repository-name
+git clone [https://github.com](https://github.com/joyumoh/iris-species-prediction)
 ```
 *(Make sure to replace the placeholder link with your actual GitHub project link after creating it).*
 
